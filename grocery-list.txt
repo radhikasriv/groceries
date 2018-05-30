@@ -3,3 +3,6 @@ red wine
 tomatoes
 penne
 tequila
+hats
+chips
+dip
