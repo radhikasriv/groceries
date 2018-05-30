@@ -6,3 +6,5 @@ tequila
 hats
 chips
 dip
+cheetos
+lime juice
